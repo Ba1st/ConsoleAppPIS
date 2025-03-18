@@ -8,7 +8,7 @@ namespace ConsoleAppPIS
 {
     class NewClass
     {
-        string Test = "Test";
+        private string Test = "Test";
         public NewClass()
         {
             

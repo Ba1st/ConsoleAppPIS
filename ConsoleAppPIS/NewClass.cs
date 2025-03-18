@@ -8,9 +8,13 @@ namespace ConsoleAppPIS
 {
     class NewClass
     {
+        string Test = "Test";
         public NewClass()
         {
             
         }
     }
+
+    
+
 }

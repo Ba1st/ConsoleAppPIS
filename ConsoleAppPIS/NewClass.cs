@@ -8,5 +8,9 @@ namespace ConsoleAppPIS
 {
     class NewClass
     {
+        public NewClass()
+        {
+            
+        }
     }
 }
